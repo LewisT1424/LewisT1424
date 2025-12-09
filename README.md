@@ -1,3 +1,3 @@
 ## Hi there 👋
 
-![Lewis's GitHub stats](https://github-readme-stats.vercel.app/api?username=LewisT1424&show_icons=true&theme=radical)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=LewisT1424&theme=dark)](https://git.io/streak-stats)
