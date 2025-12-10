@@ -1,3 +1,5 @@
-## Hi there 👋
+# Hi there 👋
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=LewisT1424&theme=dark)](https://git.io/streak-stats)
+![Profile Views](https://komarev.com/ghpvc/?username=LewisT1424&color=brightgreen)
+![GitHub followers](https://img.shields.io/github/followers/LewisT1424?label=Followers&style=social)
+![GitHub User's stars](https://img.shields.io/github/stars/LewisT1424?style=social)
